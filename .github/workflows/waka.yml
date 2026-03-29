@@ -14,11 +14,3 @@ steps:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-- Commit it
-
-**2. Add the placeholder to your README** — open your `README.md` in the repo and add this wherever you want the stats to appear (I'd suggest after your GitHub stats):
-```
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
