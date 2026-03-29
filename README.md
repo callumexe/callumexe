@@ -1,6 +1,10 @@
 # Hi, I'm Callum Collins 👋
+---
+## About Me
 
 I'm a full-stack web developer with a passion for clean, detail-oriented work. I bring focus and precision to everything I build — from polished frontends to robust backend systems.
+
+Fun fact - I've made many FiveM servers which went far, Discord Bots which are still used in the FiveM scene & I started coding at 7 years old!
 
 ---
 
@@ -22,7 +26,7 @@ I'm a full-stack web developer with a passion for clean, detail-oriented work. I
 
 ## 📊 Experience
 
-I started coding back in 2017 with Scratch, then moved on to Python, before finding my home in JavaScript & TypeScript. I've been learning quickly ever since and eventually want to get into C, Assembly, or Go.
+I started coding back when I was 7 (as of 9 years ago - 2017),  with Scratch, then moved on to Python, before finding my home in JavaScript & TypeScript. I've been learning quickly ever since and eventually want to get into C, Assembly, or Go.
 
 I've worked on many projects, from FiveM to full-stack web apps. I'm currently building a billing panel for my hosting company, [HeightNodes](https://heightnodes.com).
 
@@ -32,14 +36,16 @@ I've worked on many projects, from FiveM to full-stack web apps. I'm currently b
 
 ![Callum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=callumexe&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=callumexe&theme=aura_dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callumexe&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=callumexe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
+## ⁉️ Open To
+I am open to the following:
+- Custom Freelance Work
+- Collaborating on existing projects
+- Open source contributions
+- Development job roles.
+
 ## 📬 Contact
 
-Email: [enquiries@callumcollins.co.uk](mailto:enquiries@callumcollins.co.uk) — or DM me on Discord.
+Email: [enquiries@callumcollins.co.uk](mailto:enquiries@callumcollins.co.uk) — or DM me on Discord, my username is **mvrcusss**
