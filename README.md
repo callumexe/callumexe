@@ -6,20 +6,40 @@ I'm a full-stack web developer with a passion for clean, detail-oriented work. I
 
 ## 🛠️ Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-## 📊 What experience do you have?
 
-- I started coding back in 2017, using Scratch, then after one year of Scratch (yes, i know it isn't really coding), I moved on to Python, then one month later I realised Python was not the fit for me. I then moved to JavaScript & TypeScript, and I have been learning quickly since then! I eventually want to get into learning C, Assembly or Go.
-- I've done many projects, whether that is on FiveM or normal coding. I'm currently working on a billing panel for my hosting company, called HeightNodes (https://heightnodes.com)
-  
+## 📊 Experience
+
+I started coding back in 2017 with Scratch, then moved on to Python, before finding my home in JavaScript & TypeScript. I've been learning quickly ever since and eventually want to get into C, Assembly, or Go.
+
+I've worked on many projects, from FiveM to full-stack web apps. I'm currently building a billing panel for my hosting company, [HeightNodes](https://heightnodes.com).
+
 ---
 
-## How can I contact you? 📬
-You can contact me by emailing me at enquiries@callumcollins.co.uk - or DMing me on Discord.
+## 📈 GitHub Stats
+
+![Callum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=callumexe&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=callumexe&theme=aura_dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callumexe&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=callumexe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 📬 Contact
+
+Email: [enquiries@callumcollins.co.uk](mailto:enquiries@callumcollins.co.uk) — or DM me on Discord.
