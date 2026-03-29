@@ -14,11 +14,11 @@ I'm a full-stack web developer with a passion for clean, detail-oriented work. I
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-## 📊 GitHub Stats
+## 📊 What experience do you have?
 
-![Callum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=callumexe&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callumexe&layout=compact&theme=default&hide_border=true)
-
+- I started coding back in 2017, using Scratch, then after one year of Scratch (yes, i know it isn't really coding), I moved on to Python, then one month later I realised Python was not the fit for me. I then moved to JavaScript & TypeScript, and I have been learning quickly since then! I eventually want to get into learning C, Assembly or Go.
+- I've done many projects, whether that is on FiveM or normal coding. I'm currently working on a billing panel for my hosting company, called HeightNodes (https://heightnodes.com)
+  
 ---
 
 ## How can I contact you? 📬
